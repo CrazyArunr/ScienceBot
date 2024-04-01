@@ -3,7 +3,7 @@ from chatbot_utils import get_answer
 
 st.title("DataGenie💡")
 st.caption(
-    "Discover Scientific Insights: Get answers to your science questions from our knowledgeable chatbot."
+    "Navigate the World of Science: Explore, Learn, and Discover with Our Intelligent Chatbot."
 )
 
 if "messages" not in st.session_state:
