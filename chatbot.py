@@ -1,7 +1,7 @@
 import streamlit as st
 from chatbot_utils import get_answer
 
-st.title("ForgeX💡")
+st.title("DataGenie💡")
 st.caption(
     "Discover Scientific Insights: Get answers to your science questions from our knowledgeable chatbot."
 )
