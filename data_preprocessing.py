@@ -62,7 +62,7 @@ def create_about_me_intent(merged_df):
             "tell me about yourself",
         ],
         "support": [
-            "I'm a science chatbot ForgeX! Designed to answer your scientific questions! I'm still under development, "
+            "I'm a science chatbot DataGenie! Designed to answer your scientific questions! I'm still under development, "
             "but I'm learning more every day.",
             "I'm a friendly AI companion ForgeX! Created to help you explore the wonders of science. Ask me anything!",
             "Chatbots are conversational AI programs that can simulate human interaction. I'm a specific type focused "
