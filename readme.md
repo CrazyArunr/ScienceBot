@@ -1,4 +1,4 @@
-# ForgeX - Science and Technology Chatbot
+# DataViz - Science and Technology Chatbot
 
 ForgeX is a chatbot trained on the SciQ dataset, a collection of scientific questions and answers available on Kaggle. It is designed to provide answers to queries related to science and technology. Additionally, ForgeX includes features for greetings, goodbyes, and other common interactions to make the chatbot more user-friendly.
 
