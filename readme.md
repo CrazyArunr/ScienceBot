@@ -1,6 +1,6 @@
 # DataViz - Science and Technology Chatbot
 
-Data Genie is a chatbot trained on the SciQ dataset, a collection of scientific questions and answers available on Kaggle. It is designed to provide answers to queries related to science and technology. Additionally, ForgeX includes features for greetings, goodbyes, and other common interactions to make the chatbot more user-friendly.
+Data Genie is a chatbot trained on the SciQ dataset, a collection of scientific questions and answers available on Kaggle. It is designed to provide answers to queries related to science and technology. Additionally, Data Genie includes features for greetings, goodbyes, and other common interactions to make the chatbot more user-friendly.
 
 ## Features
 
@@ -24,10 +24,4 @@ To run the chatbot, follow these steps:
 9. Click on **execute**. You will get the answer.
 10. Alternative you can run my Streamlit chat app using `streamlit run chatbot.py`.
     ![image](streamlit-app.png)
-- The Python SDK documentation for OpenFabric is available at [https://docs.openfabric.ai/developer-tools/python-sdk/index](https://docs.openfabric.ai/developer-tools/python-sdk/index).
 
-## Demo
-
-A demo of the project and its execution is available in the following video:
-
-[Demo Video Link](https://drive.google.com/file/d/1dY7hRs_JuAJIi0XFoCbd5ns6tra3Mk7R/view?usp=sharing)
