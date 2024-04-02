@@ -23,5 +23,5 @@ To run the chatbot, follow these steps:
 8. Go to `execute` API endpoint. Add the queries that you want to ask to the chatbot as list of string.
 9. Click on **execute**. You will get the answer.
 10. Alternative you can run my Streamlit chat app using `streamlit run chatbot.py`.
-    ![image](streamlit-app.png)
+
 
