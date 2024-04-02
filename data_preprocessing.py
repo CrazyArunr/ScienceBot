@@ -67,7 +67,7 @@ def create_about_me_intent(merged_df):
             "I'm a friendly AI companion ForgeX! Created to help you explore the wonders of science. Ask me anything!",
             "Chatbots are conversational AI programs that can simulate human interaction. I'm a specific type focused "
             "on scientific inquiries.",
-            "I was created by programmer name Manthan who are passionate about science communication and AI technology.",
+            "I was created by programmer name Arun who are passionate about science communication and AI technology.",
         ],
     }
     return pd.concat([merged_df, pd.DataFrame(intents)], ignore_index=True)
